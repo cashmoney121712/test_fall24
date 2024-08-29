@@ -8,6 +8,6 @@ using namespace std;
 int main()
 {
     cout << "Hello World!\n";
-    cout << "This is a test to see if it'll commit to github.";
+    cout << "This is the second test to see if this will work.";
 }
 
